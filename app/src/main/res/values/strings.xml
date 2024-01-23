@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="app_icon">App Icon</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="news_screen">News Screen</string>
+    <string name="no_image">No Image</string>
+    <string name="image_url">Image Url</string>
+    <string name="bookmark_icon">BookMark Icon</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="browsable_icon">Browsable Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="empty_box">Empty Box</string>
+</resources>

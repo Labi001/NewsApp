@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="display_small">#000000</color>
+    <color name="text_medium">#FF4E4B66</color>
+    <color name="text_title">#000000</color>
+    <color name="body">#4E4B66</color>
+    <color name="input_background">#fff</color>
+    <color name="placeholder">#A0A3BD</color>
+    <color name="shimmer">#C3C3C3</color>
+
+    //night colors
+    <color name="display_smalln">#FFFFFFFF</color>
+    <color name="text_mediumn">#FFB0B3B8</color>
+    <color name="text_titlen">#E4E6EB</color>
+    <color name="bodyn">#B0B3B8</color>
+    <color name="input_backgroundn">#3A3B3C</color>
+    <color name="placeholdern">#DDDDDD</color>
+    <color name="shimmern">#414243</color>
+
+</resources>
